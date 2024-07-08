@@ -33,8 +33,6 @@ question_data =[
           "question": "Water always boils at 100&deg;C, 212&deg;F, 373.15K, no matter where you are.",
           "correct_answer": "False", "incorrect_answers": ["True"]}
 ]
-
-
 logo = r"""
 
  .----------------. .----------------. .----------------. .----------------. .----------------. .----------------. .----------------. .----------------. 
